@@ -1,1 +1,3 @@
 .direnv
+**/inputs/
+2024/go/.env
